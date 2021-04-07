@@ -11,6 +11,7 @@ Your program must follow the next rules:
 • Consumer and producer should have single reader/writer
 
 
+
 Vehicle types:
 Electric Motocyle :
 2 wheels
